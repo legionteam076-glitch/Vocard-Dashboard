@@ -1,11 +1,11 @@
 {
-    "host": "16.176.147.155",
+    "host": "52.62.195.93",
     "port": "8000",
     "password": "popa",
     "client_id": "1455968907297816609",
     "client_secret_id": "tVMqdcFIEVYR5g4ZqmGiqA7hbxK4wPxz",
     "secret_key": "popa",
-    "redirect_url": "http://16.176.147.155:8000/callback",
+    "redirect_url": "http://52.62.195.93:8000/callback",
     "logging": {
         "file": {
             "path": "./logs",
